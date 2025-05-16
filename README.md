@@ -59,3 +59,11 @@ this is using bash:
 ```bash
 curl -X POST -F "image=@/path/to/image.jpg" http://localhost:8080/images
 ```
+
+
+### package 
+
+- github.com/disintegration/imaging (image processing and compression)
+- https://github.com/go-chi/chi (routing)
+- https://github.com/google/uuid (primary key)
+- gorm.io/gorm (go orm) 
